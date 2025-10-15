@@ -1,0 +1,38 @@
+{
+  "hero": [
+    {
+      "id": "wd101",
+      "image": "https://s3.ap-south-1.amazonaws.com/rzp-prod-merchant-assets/payment-link/description/pf5jtoqfrcpgfv.jpeg",
+      "title": "Master Web Development",
+      "description": "Build powerful, responsive websites using HTML, CSS, and JavaScript.",
+      "category": "Web Development"
+    },
+    {
+      "id": "ds102",
+      "image": "img/ai voice.jpg",
+      "title": "Data Science with Python",
+      "description": "Analyze data, visualize insights, and create ML models using Python.",
+      "category": "Data Science"
+    },
+    {
+      "id": "ui103",
+      "image": "img/client hunting.jpg",
+      "title": "UI/UX Design Essentials",
+      "description": "Learn to design intuitive, beautiful user interfaces that delight users.",
+      "category": "Design"
+    },
+    {
+      "id": "ai104",
+      "image": "img/editing edition.jpg",
+      "title": "Artificial Intelligence Fundamentals",
+      "description": "Understand AI concepts and build smart applications with ease.",
+      "category": "AI & ML"
+    },
+    {
+      "id": "app105",
+      "image": "img/how to earn from.jpg",
+      "title": "Android App Development",
+      "description": "Develop high-performance mobile apps using Kotlin and Android Studio.",
+      "category": "App Development"
+    }
+  ]}

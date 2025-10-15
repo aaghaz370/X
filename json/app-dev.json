@@ -1,0 +1,147 @@
+{
+  "category": "APP Development",
+  "courses": [
+    {
+      "id": "wd101",
+      "title": "Complete HTML & CSS Bootcamp",
+      "thumbnail": "img/ai voice.jpg",
+      "mentor": "John Doe",
+      "rating": 4.8,
+      "learners": "45K",
+      "duration": "30 Days",
+      "description": "Learn HTML, CSS, and responsive design from scratch.",
+      "days": [
+        {
+          "day": "Day 1",
+          "lectures": [
+            {
+              "title": "Introduction to HTML",
+              "videoUrl": "https://streamtape.com/v/X1KxZG0VG3t3Kb/Death.Note.S01E13",
+              "duration": "18:30"
+            },
+            {
+              "title": "Basic Tags & Attributes",
+              "videoUrl": "videos/day1-lecture2.mp4",
+              "duration": "22:15"
+            },
+            {
+              "title": "Introduction to css",
+              "videoUrl": "videos/day1-lecture1.mp4",
+              "duration": "18:30"
+            },
+            {
+              "title": "Introduction to HTML",
+              "videoUrl": "videos/day1-lecture1.mp4",
+              "duration": "18:30"
+            }
+          ]
+        },
+        {
+          "day": "Day 2",
+          "lectures": [
+            {
+              "title": "CSS Basics",
+              "videoUrl": "videos/day2-lecture1.mp4",
+              "duration": "25:00"
+            },
+            {
+              "title": "Introduction to HTML",
+              "videoUrl": "videos/day1-lecture1.mp4",
+              "duration": "18:30"
+            },
+            {
+              "title": "Introduction to HTML",
+              "videoUrl": "videos/day1-lecture1.mp4",
+              "duration": "18:30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wd103",
+      "title": "JavaScript for Beginners",
+      "thumbnail": "images/js-beginners.jpg",
+      "mentor": "Sarah Lee",
+      "rating": 4.7,
+      "learners": "38K",
+      "duration": "25 Days",
+      "description": "Master JavaScript fundamentals and DOM manipulation.",
+      "days": []
+    },
+    {
+      "id": "wd104",
+      "title": "Complete HTML & CSS Bootcamp",
+      "thumbnail": "images/html-css.jpg",
+      "mentor": "John Doe",
+      "rating": 4.8,
+      "learners": "45K",
+      "duration": "30 Days",
+      "description": "Learn HTML, CSS, and responsive design from scratch.",
+      "days": [
+        {
+          "day": "Day 1",
+          "lectures": [
+            {
+              "title": "Introduction to HTML",
+              "videoUrl": "videos/day1-lecture1.mp4",
+              "duration": "18:30"
+            },
+            {
+              "title": "Basic Tags & Attributes",
+              "videoUrl": "videos/day1-lecture2.mp4",
+              "duration": "22:15"
+            }
+          ]
+        },
+        {
+          "day": "Day 2",
+          "lectures": [
+            {
+              "title": "CSS Basics",
+              "videoUrl": "videos/day2-lecture1.mp4",
+              "duration": "25:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wd105",
+      "title": "Complete HTML & CSS Bootcamp",
+      "thumbnail": "images/html-css.jpg",
+      "mentor": "John Doe",
+      "rating": 4.8,
+      "learners": "45K",
+      "duration": "30 Days",
+      "description": "Learn HTML, CSS, and responsive design from scratch.",
+      "days": [
+        {
+          "day": "Day 1",
+          "lectures": [
+            {
+              "title": "Introduction to HTML",
+              "videoUrl": "videos/day1-lecture1.mp4",
+              "duration": "18:30"
+            },
+            {
+              "title": "Basic Tags & Attributes",
+              "videoUrl": "videos/day1-lecture2.mp4",
+              "duration": "22:15"
+            }
+          ]
+        },
+        {
+          "day": "Day 2",
+          "lectures": [
+            {
+              "title": "CSS Basics",
+              "videoUrl": "videos/day2-lecture1.mp4",
+              "duration": "25:00"
+            }
+          ]
+        }
+      ]
+    }
+]
+}

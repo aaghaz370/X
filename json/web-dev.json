@@ -1,0 +1,388 @@
+{
+  "category": "App Development",
+  "courses": [
+    {
+      "id": "wd101",
+      "title": "Complete HTML & CSS Bootcamp",
+      "thumbnail": "img/how to earn from.jpg",
+      "mentor": "John Doe",
+      "rating": 4.8,
+      "learners": "45K",
+      "duration": "30 Days",
+      "description": "Learn HTML, CSS, and responsive design from scratch.",
+      "days": [
+        {
+          "day": "Day 1 - HTML Basics",
+          "lectures": [
+            {
+              "title": "Introduction to HTML",
+              "videoUrl": "https://streamtape.com/v/X1KxZG0VG3t3Kb/Death.Note.S01E13",
+              "duration": "12:30"
+            },
+            {
+              "title": "Basic Tags & Attributes",
+              "videoUrl": "https://streamtape.com/v/X1KxZG0VG3t3Kb/Death.Note.S01E13",
+              "duration": "18:10"
+            },
+            {
+              "title": "Links, Lists & Tables",
+              "videoUrl": "https://streamtape.com/v/X1KxZG0VG3t3Kb/Death.Note.S01E13",
+              "duration": "20:05"
+            },
+            {
+              "title": "HTML Forms",
+              "videoUrl": "https://streamtape.com/v/XAq8R29Vo6C6xO/",
+              "duration": "16:25"
+            },
+            {
+              "title": "HTML type",
+              "videoUrl": "https://streamtape.com/v/XAq8R29Vo6C6xO/",
+              "duration": "16:30"
+            }
+          ]
+        },
+        {
+          "day": "Day 2 - CSS Foundations",
+          "lectures": [
+            {
+              "title": "Introduction to CSS",
+              "videoUrl": "videos/day2-lecture1.mp4",
+              "duration": "15:50"
+            },
+            {
+              "title": "Selectors & Properties",
+              "videoUrl": "videos/day2-lecture2.mp4",
+              "duration": "17:40"
+            },
+            {
+              "title": "Box Model Explained",
+              "videoUrl": "https://streamtape.com/v/2qozpdWb4GcBYa/",
+              "duration": "21:00"
+            },
+            {
+              "title": "Positioning & Display",
+              "videoUrl": "videos/day2-lecture4.mp4",
+              "duration": "19:25"
+            },
+            {
+              "title": "Flexbox & Grid Layouts",
+              "videoUrl": "https://streamtape.com/v/ld0Pq7xwzYtbjM/",
+              "duration": "23:10"
+            }
+          ]
+        },
+        {
+          "day": "Day 1 - HTML Basics",
+          "lectures": [
+            {
+              "title": "Introduction to HTML",
+              "videoUrl": "https://streamtape.com/v/X1KxZG0VG3t3Kb/Death.Note.S01E13",
+              "duration": "12:30"
+            },
+            {
+              "title": "Basic Tags & Attributes",
+              "videoUrl": "videos/day1-lecture2.mp4",
+              "duration": "18:10"
+            },
+            {
+              "title": "Links, Lists & Tables",
+              "videoUrl": "videos/day1-lecture3.mp4",
+              "duration": "20:05"
+            },
+            {
+              "title": "HTML Forms",
+              "videoUrl": "https://streamtape.com/v/XAq8R29Vo6C6xO/",
+              "duration": "16:25"
+            },
+            {
+              "title": "HTML type",
+              "videoUrl": "https://streamtape.com/v/XAq8R29Vo6C6xO/",
+              "duration": "16:30"
+            }
+          ]
+        },
+        {
+          "day": "Day 1 - HTML Basics",
+          "lectures": [
+            {
+              "title": "Introduction to HTML",
+              "videoUrl": "https://streamtape.com/v/X1KxZG0VG3t3Kb/Death.Note.S01E13",
+              "duration": "12:30"
+            },
+            {
+              "title": "Basic Tags & Attributes",
+              "videoUrl": "videos/day1-lecture2.mp4",
+              "duration": "18:10"
+            },
+            {
+              "title": "Links, Lists & Tables",
+              "videoUrl": "videos/day1-lecture3.mp4",
+              "duration": "20:05"
+            },
+            {
+              "title": "HTML Forms",
+              "videoUrl": "https://streamtape.com/v/XAq8R29Vo6C6xO/",
+              "duration": "16:25"
+            },
+            {
+              "title": "HTML type",
+              "videoUrl": "https://streamtape.com/v/XAq8R29Vo6C6xO/",
+              "duration": "16:30"
+            }
+          ]
+        },
+         {
+          "day": "Day 1 - HTML Basics",
+          "lectures": [
+            {
+              "title": "Introduction to HTML",
+              "videoUrl": "https://streamtape.com/v/X1KxZG0VG3t3Kb/Death.Note.S01E13",
+              "duration": "12:30"
+            },
+            {
+              "title": "Basic Tags & Attributes",
+              "videoUrl": "videos/day1-lecture2.mp4",
+              "duration": "18:10"
+            },
+            {
+              "title": "Links, Lists & Tables",
+              "videoUrl": "videos/day1-lecture3.mp4",
+              "duration": "20:05"
+            },
+            {
+              "title": "HTML Forms",
+              "videoUrl": "https://streamtape.com/v/XAq8R29Vo6C6xO/",
+              "duration": "16:25"
+            },
+            {
+              "title": "HTML type",
+              "videoUrl": "https://streamtape.com/v/XAq8R29Vo6C6xO/",
+              "duration": "16:30"
+            }
+          ]
+        },
+         {
+          "day": "Day 1 - HTML Basics",
+          "lectures": [
+            {
+              "title": "Introduction to HTML",
+              "videoUrl": "https://streamtape.com/v/X1KxZG0VG3t3Kb/Death.Note.S01E13",
+              "duration": "12:30"
+            },
+            {
+              "title": "Basic Tags & Attributes",
+              "videoUrl": "videos/day1-lecture2.mp4",
+              "duration": "18:10"
+            },
+            {
+              "title": "Links, Lists & Tables",
+              "videoUrl": "videos/day1-lecture3.mp4",
+              "duration": "20:05"
+            },
+            {
+              "title": "HTML Forms",
+              "videoUrl": "https://streamtape.com/v/XAq8R29Vo6C6xO/",
+              "duration": "16:25"
+            },
+            {
+              "title": "HTML type",
+              "videoUrl": "https://streamtape.com/v/XAq8R29Vo6C6xO/",
+              "duration": "16:30"
+            }
+          ]
+        },
+         {
+          "day": "Day 1 - HTML Basics",
+          "lectures": [
+            {
+              "title": "Introduction to HTML",
+              "videoUrl": "https://streamtape.com/v/X1KxZG0VG3t3Kb/Death.Note.S01E13",
+              "duration": "12:30"
+            },
+            {
+              "title": "Basic Tags & Attributes",
+              "videoUrl": "videos/day1-lecture2.mp4",
+              "duration": "18:10"
+            },
+            {
+              "title": "Links, Lists & Tables",
+              "videoUrl": "videos/day1-lecture3.mp4",
+              "duration": "20:05"
+            },
+            {
+              "title": "HTML Forms",
+              "videoUrl": "https://streamtape.com/v/XAq8R29Vo6C6xO/",
+              "duration": "16:25"
+            },
+            {
+              "title": "HTML type",
+              "videoUrl": "https://streamtape.com/v/XAq8R29Vo6C6xO/",
+              "duration": "16:30"
+            }
+          ]
+        },
+         {
+          "day": "Day 1 - HTML Basics",
+          "lectures": [
+            {
+              "title": "Introduction to HTML",
+              "videoUrl": "https://streamtape.com/v/X1KxZG0VG3t3Kb/Death.Note.S01E13",
+              "duration": "12:30"
+            },
+            {
+              "title": "Basic Tags & Attributes",
+              "videoUrl": "videos/day1-lecture2.mp4",
+              "duration": "18:10"
+            },
+            {
+              "title": "Links, Lists & Tables",
+              "videoUrl": "videos/day1-lecture3.mp4",
+              "duration": "20:05"
+            },
+            {
+              "title": "HTML Forms",
+              "videoUrl": "https://streamtape.com/v/XAq8R29Vo6C6xO/",
+              "duration": "16:25"
+            },
+            {
+              "title": "HTML type",
+              "videoUrl": "https://streamtape.com/v/XAq8R29Vo6C6xO/",
+              "duration": "16:30"
+            }
+          ]
+        },
+         {
+          "day": "Day 1 - HTML Basics",
+          "lectures": [
+            {
+              "title": "Introduction to HTML",
+              "videoUrl": "https://streamtape.com/v/X1KxZG0VG3t3Kb/Death.Note.S01E13",
+              "duration": "12:30"
+            },
+            {
+              "title": "Basic Tags & Attributes",
+              "videoUrl": "videos/day1-lecture2.mp4",
+              "duration": "18:10"
+            },
+            {
+              "title": "Links, Lists & Tables",
+              "videoUrl": "videos/day1-lecture3.mp4",
+              "duration": "20:05"
+            },
+            {
+              "title": "HTML Forms",
+              "videoUrl": "https://streamtape.com/v/XAq8R29Vo6C6xO/",
+              "duration": "16:25"
+            },
+            {
+              "title": "HTML type",
+              "videoUrl": "https://streamtape.com/v/XAq8R29Vo6C6xO/",
+              "duration": "16:30"
+            }
+          ]
+        },
+         {
+          "day": "Day 1 - HTML Basics",
+          "lectures": [
+            {
+              "title": "Introduction to HTML",
+              "videoUrl": "https://streamtape.com/v/X1KxZG0VG3t3Kb/Death.Note.S01E13",
+              "duration": "12:30"
+            },
+            {
+              "title": "Basic Tags & Attributes",
+              "videoUrl": "videos/day1-lecture2.mp4",
+              "duration": "18:10"
+            },
+            {
+              "title": "Links, Lists & Tables",
+              "videoUrl": "videos/day1-lecture3.mp4",
+              "duration": "20:05"
+            },
+            {
+              "title": "HTML Forms",
+              "videoUrl": "https://streamtape.com/v/XAq8R29Vo6C6xO/",
+              "duration": "16:25"
+            },
+            {
+              "title": "HTML type",
+              "videoUrl": "https://streamtape.com/v/XAq8R29Vo6C6xO/",
+              "duration": "16:30"
+            }
+          ]
+        },
+         {
+          "day": "Day 1 - HTML Basics",
+          "lectures": [
+            {
+              "title": "Introduction to HTML",
+              "videoUrl": "https://streamtape.com/v/X1KxZG0VG3t3Kb/Death.Note.S01E13",
+              "duration": "12:30"
+            },
+            {
+              "title": "Basic Tags & Attributes",
+              "videoUrl": "videos/day1-lecture2.mp4",
+              "duration": "18:10"
+            },
+            {
+              "title": "Links, Lists & Tables",
+              "videoUrl": "videos/day1-lecture3.mp4",
+              "duration": "20:05"
+            },
+            {
+              "title": "HTML Forms",
+              "videoUrl": "https://streamtape.com/v/XAq8R29Vo6C6xO/",
+              "duration": "16:25"
+            },
+            {
+              "title": "HTML type",
+              "videoUrl": "https://streamtape.com/v/XAq8R29Vo6C6xO/",
+              "duration": "16:30"
+            }
+          ]
+        },
+         {
+          "day": "Day 1 - HTML Basics",
+          "lectures": [
+            {
+              "title": "Introduction to HTML",
+              "videoUrl": "https://streamtape.com/v/X1KxZG0VG3t3Kb/Death.Note.S01E13",
+              "duration": "12:30"
+            },
+            {
+              "title": "Basic Tags & Attributes",
+              "videoUrl": "videos/day1-lecture2.mp4",
+              "duration": "18:10"
+            },
+            {
+              "title": "Links, Lists & Tables",
+              "videoUrl": "videos/day1-lecture3.mp4",
+              "duration": "20:05"
+            },
+            {
+              "title": "HTML Forms",
+              "videoUrl": "https://streamtape.com/v/XAq8R29Vo6C6xO/",
+              "duration": "16:25"
+            },
+            {
+              "title": "HTML type",
+              "videoUrl": "https://streamtape.com/v/XAq8R29Vo6C6xO/",
+              "duration": "16:30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wd102",
+      "title": "JavaScript Essentials",
+      "thumbnail": "img/js.jpg",
+      "mentor": "Jane Smith",
+      "rating": 4.7,
+      "learners": "38K",
+      "duration": "25 Days",
+      "description": "Master the fundamentals of JavaScript programming.",
+      "days": []
+    }
+  ]
+}

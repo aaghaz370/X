@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LearnX - Stream Your Courses</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- 🔍 Search Overlay -->
+  <div id="searchOverlay" class="overlay">
+    <div class="overlay-content">
+      <input type="text" id="searchInput" placeholder="Search courses..." />
+      <div id="searchResults"></div>
+    </div>
+  </div>
+
+  
+  
+
+
+  <!-- 🎬 Hero Banner (Dynamic) -->
+<section class="hero-banner" id="heroBanner">
+  <div class="hero-overlay"></div>
+
+  <!-- 🔍 Search icon now inside hero -->
+  <div class="hero-search">
+    <div class="search-icon" id="searchBtn">🔍</div>
+  </div>
+
+  <div class="hero-content" id="heroContent">
+    <h1 id="heroTitle"></h1>
+    <p id="heroDesc"></p>
+  </div>
+
+  <!-- Manual arrows -->
+  <div class="hero-arrow left" id="prevHero">❮</div>
+  <div class="hero-arrow right" id="nextHero">❯</div>
+</section>
+
+
+  <!-- ▶️ Continue Watching -->
+  <section class="category-section">
+    <h2>Continue Watching</h2>
+    <div class="course-slider" id="continueWatching"></div>
+  </section>
+
+  <!-- 🔝 Top 10 Courses -->
+  <section class="category-section">
+    <h2>Top 10 Courses</h2>
+    <div class="course-slider" id="top10Courses"></div>
+  </section>
+
+  <!-- 📚 Dynamic Categories -->
+  <div id="categoriesContainer"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>

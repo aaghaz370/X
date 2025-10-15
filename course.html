@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Course Player</title>
+  <link rel="stylesheet" href="course.css" />
+</head>
+<body>
+
+  <!-- 🔝 Course Header -->
+  <div class="course-header">
+    <h1 id="courseTitle">Loading...</h1>
+  </div>
+
+  <!-- 🎬 Player -->
+  <div class="player-container" id="playerContainer">
+    <video id="videoPlayer" controls autoplay>
+      <source id="videoSource" src="" type="video/mp4">
+      Your browser does not support HTML5 video.
+    </video>
+  </div>
+
+  <button id="watchModeBtn" class="watch-mode-btn">Watch Mode</button>
+
+  <!-- 📅 Course Days -->
+  <section id="daysContainer"></section>
+
+  <!-- 💡 Related Courses -->
+  <section class="suggested-section">
+    <h2>Related Courses</h2>
+    <div id="suggestedCourses" class="suggested-slider"></div>
+  </section>
+
+  <script src="course.js"></script>
+</body>
+</html>
